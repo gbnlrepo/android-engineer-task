@@ -4,7 +4,7 @@ Objective of this test is to know the ability of the applicant in key android de
 
 You are to write a simple android  with 3 screens.
 Get sport data from https://www.football-data.org/, 
-persist locally some  part of it locally, display data on screen.
+persist locally, display data on screen.
 
 You would have to register and get an api key from https://www.football-data.org/ before you can call their apis.
 
